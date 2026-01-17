@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "aspen",
+  "theme": "mint",
   "name": "Stophy",
   "colors": {
     "primary": "#FF4D00",
-    "light": "#FF4D00",
+    "light": "#FFFFFF",
     "dark": "#FF4D00"
   },
   "favicon": "/favicon.svg",
@@ -29,13 +29,12 @@
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
               "development"
             ]
           },
